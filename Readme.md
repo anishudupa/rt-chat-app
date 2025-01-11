@@ -32,7 +32,7 @@ To run the chat app locally, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/anishudupa/chat-app.git
    cd server
    npm i
    npm run start
