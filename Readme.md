@@ -34,5 +34,6 @@ To run the chat app locally, follow the steps below:
    ```bash
    git clone https://github.com/your-username/chat-app.git
    cd server
+   npm i
    npm run start
    ```
